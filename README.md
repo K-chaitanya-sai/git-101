@@ -1,1 +1,2 @@
-# welcome to 
+# welcome to git 101
+
